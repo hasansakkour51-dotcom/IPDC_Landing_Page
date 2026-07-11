@@ -1,34 +1,27 @@
 # IPDC Landing Page
 
-## 🚀 Overview
-This project is a responsive landing page built during my training period.  
-It demonstrates my ability to structure layouts, apply responsive design techniques, and practice frontend development fundamentals.
+##  Overview
+IPDC is a responsive **corporate landing page** developed during my training period.  
+The project was built to strengthen my skills in **Html & Css**, responsive layouts, and modern UI/UX practices. Compared to simpler projects, the design involved more structured sections and a professional corporate theme.
 
-## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
--Bootstrap
-## 🎨 Features
-- Responsive design for mobile, tablet, and desktop.
-- Structured components (header, footer, services, contact, etc.).
-- Basic animations and styling.
+##  Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
 
-## 🎯 Note
-This project was created during my training,.  
-It reflects my learning journey and growth in frontend development.
+##  Features
+- Fully responsive design across mobile, tablet, and desktop.  
+- Clean corporate-style layout with sections for services, features, and contact.  
+- Organized structure: Header, Hero, Services, Features, Testimonials, Footer.  
+- Professional design complexity to simulate real-world landing page requirements.  
 
-## 📂 Project Structure
-- `index.html` — main entry point.
-- `css/` — stylesheets for layout and design.
-- `image/` — assets used in the landing page.
-- `.vscode/` — editor configuration files.
+##  Outcomes
+- Learned how to design and structure a corporate landing page with Bootstrap.  
+- Improved responsive design skills and layout organization.  
+- Practiced building a professional theme suitable for business contexts.  
+- Enhanced confidence in handling structured, corporate-style projects during training.
 
-## 📌 Outcomes
-- Practice in building responsive layouts using Bootstrap
-- Improved understanding of CSS and HTML structure.
-- Hands-on experience with project organization.}
-- dark-light Mood
+
 
 ---
 
