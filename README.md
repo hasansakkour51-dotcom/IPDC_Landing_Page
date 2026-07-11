@@ -15,7 +15,7 @@ It demonstrates my ability to structure layouts, apply responsive design techniq
 - Basic animations and styling.
 
 ## 🎯 Note
-This project was created during my training, so it may contain minor mistakes.  
+This project was created during my training,.  
 It reflects my learning journey and growth in frontend development.
 
 ## 📂 Project Structure
@@ -27,7 +27,8 @@ It reflects my learning journey and growth in frontend development.
 ## 📌 Outcomes
 - Practice in building responsive layouts using Bootstrap
 - Improved understanding of CSS and HTML structure.
-- Hands-on experience with project organization.
+- Hands-on experience with project organization.}
+- dark-light Mood
 
 ---
 
