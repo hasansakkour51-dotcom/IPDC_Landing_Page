@@ -8,7 +8,7 @@ It demonstrates my ability to structure layouts, apply responsive design techniq
 - HTML
 - CSS
 - JavaScript
-
+-Bootstrap
 ## 🎨 Features
 - Responsive design for mobile, tablet, and desktop.
 - Structured components (header, footer, services, contact, etc.).
@@ -25,14 +25,9 @@ It reflects my learning journey and growth in frontend development.
 - `.vscode/` — editor configuration files.
 
 ## 📌 Outcomes
-- Practice in building responsive layouts.
+- Practice in building responsive layouts using Bootstrap
 - Improved understanding of CSS and HTML structure.
 - Hands-on experience with project organization.
 
 ---
 
-## 🏅 Recommendation
-[View Recommendation PDF](./docs/Hasan%20Saqour%20Frontend%20Recommendation.pdf)
-
-## 📄 CV
-[View CV PDF](./docs/Hasan-Sakkour-FrontendDeveloper_CV.pdf)
