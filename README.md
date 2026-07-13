@@ -1,6 +1,6 @@
 # IPDC Landing Page
 ## 🌐 Live Demo
-[View IPDC Website](https://zingy-nasturtium-31717e.netlify.app/)
+[View IPDC Website](https://delightful-marshmallow-600c6a.netlify.app/)
 
 ##  Overview
 IPDC is a responsive **corporate landing page** developed during my training period.  
